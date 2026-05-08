@@ -55,7 +55,6 @@ Dataset Information:
 ├── Project_Report.pdf
 ├── Presentation_Slides.pptx
 ├── best_improved_sod_model.pth
-├── dataset/
 └── README.md
 ````
 
